@@ -1,0 +1,5 @@
+streamlit>=1.31
+audio-recorder-streamlit>=0.0.10
+faster-whisper>=1.0.0
+numpy>=1.24
+gradio_client>=1.0.0

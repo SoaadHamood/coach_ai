@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Local runtime folders
+.cache/
+tmp_audio/
+recordings/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
