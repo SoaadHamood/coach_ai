@@ -3,3 +3,6 @@ audio-recorder-streamlit>=0.0.10
 faster-whisper>=1.0.0
 numpy>=1.24
 gradio_client>=1.0.0
+streamlit-webrtc>=0.47.0
+av>=10.0.0
+numpy>=1.23
