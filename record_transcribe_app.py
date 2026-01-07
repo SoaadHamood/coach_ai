@@ -46,8 +46,8 @@ def transcribe_via_space(client: Client, wav_path: Path, lang_code: str | None) 
     result = client.predict(
         handle_file(str(wav_path)),
         lang,
-        api_name="/predict",
     )
+
     # result is a dict from the Space JSON output
     return result
 
